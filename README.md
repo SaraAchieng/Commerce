@@ -3,6 +3,7 @@ E-commerce auction site
 E-commerce auction site that will allow users to post auction listings, place bids on listings, comment on those listings and add listings to a watchlist.
 
 Requirements.
+
 Users should be able to visit a page to create a new listing.
 The default route of the application should let users view all the currently active auction listings.
 Clicking on a listing should take users to that specific listing page.
